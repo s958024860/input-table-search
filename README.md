@@ -1,2 +1,24 @@
-# input-table-search
-基于element-ui el-input /el-table 全键盘操作搜索并选择行
+# input-table-search1
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
