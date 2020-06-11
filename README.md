@@ -6,6 +6,8 @@
 ## 要求
 > 需要： 店家是一个老顽固，或者不喜欢使用鼠标所以需要全键盘来操作
 
+![avatar](/src/assets/image/table-form.gif)
+
 ## Project setup
 ```
 npm install
